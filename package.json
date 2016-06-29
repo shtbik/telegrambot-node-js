@@ -1,7 +1,7 @@
 {
-  "name": "Telegram Bot",
+  "name": "TelegramBot",
   "version": "1.0.0",
-  "description": "Телеграм Бот",
+  "description": "TelegramBot",
   "scripts": {
     "start": "node index.js",
     "styles": "webpack --progress --colors --watch"
